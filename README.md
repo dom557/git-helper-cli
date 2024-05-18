@@ -2,7 +2,6 @@
 
 # Git Helper CLI
 
-[![GitHub license](https://img.shields.io/github/license/dom557/git-helper-cli )](https://github.com/dom557/git-helper-cli/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/dom557/git-helper-cli )](https://github.com/dom557/git-helper-cli/issues)
 [![GitHub stars](https://img.shields.io/github/stars/dom557/git-helper-cli )](https://github.com/dom557/git-helper-cli/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/dom557/git-helper-cli )](https://github.com/dom557/git-helper-cli/network)
