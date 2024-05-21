@@ -22,7 +22,7 @@ npm install -g @dom557/git-helper-cli
 Once installed, you can use the `git-helper` command followed by the desired action:
 
 ```bash
-git-helper <command> [options]
+npm run git-helper <command> [options]
 ```
 
 For example, to initialize a new Git repository:
